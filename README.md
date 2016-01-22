@@ -5,14 +5,17 @@ Uno Rules.... plus
 To start deal 10 cards to each player (for 4 players, not sure on scaling)
 Flip card to start; if first card is a King/Ace, distribute
 
-Ace => pickup 4 (can match any Ace/King)
-King => pickup 2 (can match any Ace/King)
+Ace => Pickup: 4 (can match any Ace/King)
+
+King => Pickup: 2 (can match any Ace/King)
+
 Queen => Movement: reverse
+
 Jack => Movement: skip 1
 
 Movement
 - can match Ace/King of same suit
-- can be combo'd with Ace/King/Queen/Jack (pickups must be last)
+- can be combo'd with Ace/King/Queen/Jack (all movement must be first in turn)
 
 Joker => players choice: 2 to Q
 
